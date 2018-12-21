@@ -1,6 +1,0 @@
-c -> test2
-TEST 2
-
-crontab pull lokala c:
-bbbbb
-xxxxx
