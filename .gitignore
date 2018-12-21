@@ -1,2 +1,6 @@
+# ignorera filer
+
 .htaccess
 mapp/
+
+rollo/*
